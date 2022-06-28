@@ -1,0 +1,5 @@
+a = float(input("Enter the side of square: "))
+area = float(a*a)
+perimetr = float(4*a)
+print("The area of the square is: " + str(area))
+print("The perimetr of the square is: " + str(perimetr))
